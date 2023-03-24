@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project Link : https://kavinduuom20.github.io/movieland-react/
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/KavinduUoM20/movieland-react/img/project.png)
